@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bouton {
+    border-radius: 30px;
+    padding: 8px 25px;
+    background: #25AAE0;
+    color: white;
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    transition: transform 0.3s ease;
+}
+
+.bouton:hover {
+    transform: translateY(-3px);
+}
