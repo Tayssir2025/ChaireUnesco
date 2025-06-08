@@ -686,7 +686,7 @@
     <section class="hero-section" style="background-image: url('LandingPage/images/image1.jpg'); background-size: cover; background-position: center; padding: 200px 0;">
         <div class="container">
             <div class="hero-content">
-               <h1 style="color: #F8F9FA; font-size: 4rem;" class="fw-bold  fade-in">À Propos</h1>
+               <h1 style="color: #F8F9FA; font-size: 4rem;" class="fw-bold  fade-in">Les Politiques Publiques Et Les Sociétés</h1>
             </div>
         </div>
     </section>
