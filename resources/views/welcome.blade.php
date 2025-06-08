@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="{{ asset('LandingPage/style.css') }}">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chaire UNESCO ES&DD</title>
+    <title>Chaire UNESCO UMA </title>
 
     <!-- Preconnect for Faster CDN Loading -->
     <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>

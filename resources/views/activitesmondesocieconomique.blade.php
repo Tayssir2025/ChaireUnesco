@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>À Propos - Chaire UNESCO UMA</title>
+    <title>Le Monde Socio-Économique</title>
 
     <!-- Bootstrap 5 CSS & Icons -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -469,14 +469,14 @@
         }
 
         .hero-img-1 {
-            background: url('./LandingPage/images/2.jpeg') center/cover;
+            background: url('./LandingPage/images/17.jpeg') center/cover;
             border-radius: 8px;
             grid-column: span 2;
             height: 180px;
         }
 
         .hero-img-2 {
-            background: url('./LandingPage/images/1.jpeg') center/cover;
+            background: url('./LandingPage/images/15.jpeg') center/cover;
             border-radius: 8px;
             height: 200px;
         }
